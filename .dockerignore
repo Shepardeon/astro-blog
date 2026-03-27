@@ -1,0 +1,17 @@
+# .dockerignore
+node_modules
+dist
+.astro
+.git
+.gitignore
+*.md
+.env
+.env.*
+.vscode
+.idea
+coverage
+tests
+e2e
+docker-compose*.yml
+Dockerfile*
+.dockerignore
